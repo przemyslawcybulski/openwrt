@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------- #
 #    Skrypt automatyzujacy instalacje extroot w openwrt
 #    (c)2020 cy3ul
-#    author:  przemyslaw.cybulski@protonmail.com
+#    author:  przemyslaw@cybulski.waw.pl
 #         
 #    version:    1.0
 #
